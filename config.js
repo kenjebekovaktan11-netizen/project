@@ -1,0 +1,1 @@
+window.API_BASE = "https://ТВОЙ-BACKEND.up.railway.app";

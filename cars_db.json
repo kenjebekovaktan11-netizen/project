@@ -1,0 +1,34 @@
+[
+  {
+    "brand": "Pagani",
+    "model": "Codalunga",
+    "year": 2001,
+    "engine": "4.6",
+    "km": "234344 км",
+    "price": "6300000000 сом",
+    "location": "Italy",
+    "owner": "угон",
+    "condition": "Вильнюс",
+    "image": "https://cdn.ingos.ru/images/blog/Pagani-Huayra-Codalunga.jpg",
+    "badge": "Актуально",
+    "type": "boat",
+    "isUser": true,
+    "id": "2"
+  },
+  {
+    "brand": "Pagani",
+    "model": "Codalunga",
+    "year": 2001,
+    "engine": "4.6",
+    "km": "234344 км",
+    "price": "6300000000 сом",
+    "location": "Italy",
+    "owner": "угон",
+    "condition": "Вильнюс",
+    "image": "https://cdn.ingos.ru/images/blog/Pagani-Huayra-Codalunga.jpg",
+    "badge": "Актуально",
+    "type": "car",
+    "isUser": true,
+    "id": "4"
+  }
+]
